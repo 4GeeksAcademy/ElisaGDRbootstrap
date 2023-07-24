@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+}
+.navbar-light{
+    background-color: white;
+}
+.navbar-expand-lg{
+    background-color:rgb(242, 244, 245)
+}
+.img-adjust {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.card-body{
+    font-size: smaller;
+    line-height: 10%;
+}
+span{
+    font-size: smaller;
+}
